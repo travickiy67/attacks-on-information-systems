@@ -122,7 +122,7 @@ https://www.exploit-db.com/exploits/31965
 
 ![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/2.1.png)  
 
-![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/2.1.png)  
+![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/2.2.png)  
 
 Режим FIN.  
 В этом случае исследуемой системе отправляется пакет FIN. в ответ узел должен отправить пакет RST для всех закрытых портов.  
