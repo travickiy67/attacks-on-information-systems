@@ -40,13 +40,20 @@
   
 *Приведите ответ в свободной форме.*  
 
+<details>
+<summary>Ответ</summary>  
+
 - Установленна Metasploitable
 
-- Просканирована `nmap -sV  192.168.0.8`  
-                 ` sudo nmap -sV -Pn --script vulners 192.168.0.8`    
-                 `nmap -S  192.168.0.8`  
+**Скрин**
 
-- Сканирование с помощью скрипта показало все уязвимости с сылками на описание и балами риска  
+![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/1.1.png)  
+
+- Просканирована `nmap -sV  192.168.0.8`  
+-                ` sudo nmap -sV -Pn --script vulners 192.168.0.8`    
+-                `nmap -S  192.168.0.8`  
+
+- Сканирование с помощью скрипта ` sudo nmap -sV -Pn --script vulners 192.168.0.8` показало все уязвимости с сылками на описание и балами риска  
 
 Службы:  
 ftp  
@@ -68,7 +75,7 @@ vnc
 irc  
 ajp13  
 
-Ссыдки с сайта https://sourceforge.net/projects/metasploitable/:  
+Ссылки с сайта https://sourceforge.net/projects/metasploitable/:  
 
 https://www.exploit-db.com/exploits/17491   
 
@@ -77,6 +84,16 @@ https://www.exploit-db.com/exploits/6122
 https://www.exploit-db.com/exploits/30020   
 
 https://www.exploit-db.com/exploits/31965  
+
+**Скрины, результат сканирования**
+
+![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/1.2.png)  
+
+![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/1.3.png)  
+
+![img](https://github.com/travickiy67/attacks-on-information-systems/blob/main/img/1.4.png)  
+
+</details>
 
 ### Задание 2
 
